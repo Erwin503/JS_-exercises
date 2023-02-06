@@ -1,3 +1,8 @@
+body {
+  /* background-color: red */
+  background-color: rgb(88, 84, 84);
+
+}
 .body {
     color: rgba(235, 235, 235, 0.64);
     width: 100%;
